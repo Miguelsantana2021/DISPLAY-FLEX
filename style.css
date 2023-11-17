@@ -1,0 +1,56 @@
+section{
+    border: 2px solid red;
+}
+.bugatti{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4rem;
+}
+.bugatti img{
+    width: 20rem;
+
+
+
+}
+.bugatti p{
+    width: 30rem;
+    text-align: center;
+
+
+}
+.koegnisegg{
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+    justify-content: center;
+    gap: 4rem;
+
+    margin-bottom: ;
+
+
+}
+.koegnisegg img{
+    width: 20rem;
+}
+.koegnisegg p{
+    width: 30rem;
+    text-align: center;
+
+}
+.formulario{
+    padding: 1rem;
+
+    display: flex;
+    justify-content: center;
+    
+}
+.formulario div{
+    display: flex;
+    flex-direction: column;
+
+}
+.formulario form{
+    max-width: 40rem;
+
+}
